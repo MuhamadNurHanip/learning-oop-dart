@@ -98,7 +98,7 @@ class Room {
 // Kelas untuk representasi Pembayaran (Payment)
 class Payment {
   double _amount;
-  String _paymentMethod;
+  String _paymentMethod;  
   bool _isPaid;
   DateTime _dueDate;
 
